@@ -1,3 +1,6 @@
+
+# **已经迁移到 https://github.com/wequgroup/WeDuckPortable 仓库**
+
 # 微趣鸭 Rust Cli 客户端
 
 使用 Rust 写出的神秘鸭客户端，多平台支持，以命令行方式运行。
